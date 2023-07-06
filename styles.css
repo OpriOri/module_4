@@ -5,7 +5,7 @@ background: grey;
 
 p.paragraph-1 {
 background: purple;
-font-size: 32pt;
+font-size: 24pt;
 color:green;
 
 }
@@ -15,8 +15,9 @@ color:green;
 p.paragraph-2 {
 border: 10px solid green;
 border-radius: 5px;
-font-size:26pt;
+font-size:24pt;
 margin-left:60px;
+background: #bee1be;
 padding-top:100px;
 padding-left:150px;
 
@@ -25,7 +26,20 @@ padding-left:150px;
 
 p.paragraph-3 {
 font-weight: bold;
-font_size:22pt;
+font_size:24pt;
 font-family: Arial
 
+}
+img.photo {
+font-size:26pt;
+margin-left:60px;
+padding-top:100px;
+padding-left:150px;
+
+}
+
+p.paragraph-4 {
+font-weight: bold;
+font_size:24pt;
+font-family: Arial
 }
